@@ -4,4 +4,9 @@ module.exports = {
     "postcss-simple-vars": {},
     "postcss-nested": {}
   },
+  plugins: [
+    require('tailwindcss'),
+    require('autoprefixer'),
+  ],
+
 }

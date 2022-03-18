@@ -7,6 +7,7 @@
 
 module.exports = {
     darkMode: 'class',
+    mode: 'jit',
     content: [
         /**
          * HTML. Paths to Django template files that will contain Tailwind CSS classes.
