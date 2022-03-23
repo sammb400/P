@@ -1,5 +1,8 @@
 {
   "devDependencies": {
     "autoprefixer": "^10.4.4"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
   }
 }
